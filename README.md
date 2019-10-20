@@ -8,6 +8,8 @@ _Code is written in Tensorflow(did not make use of Keras)_
 ## Data
 
 **SIGNS** dataset is a collection of 6 hand signs representing numbers from 0 to 5.
+
+You can find sample of how data looks like in [here]()
 Goal is to classify image in to 6 catgories.
 
 * 1) 0

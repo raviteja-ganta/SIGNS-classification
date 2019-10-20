@@ -9,7 +9,8 @@ _Code is written in Tensorflow(did not make use of Keras)_
 
 **SIGNS** dataset is a collection of 6 hand signs representing numbers from 0 to 5.
 
-You can find sample of how data looks like in [here]()
+You can find sample of how data looks like in [here](https://github.com/raviteja-ganta/SIGNS-classification/tree/master/images)
+
 Goal is to classify image in to 6 catgories.
 
 * 1) 0

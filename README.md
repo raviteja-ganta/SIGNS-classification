@@ -3,6 +3,8 @@
 This project deals with applying convolutional neural nets on Image data to classify an image in to one of 6 categories.
 It is part of Deep learning specialization in coursera but I extended that project to add some features to improve accuracy.
 
+_Code is written in Tensorflow(did not make use of Keras)_
+
 ## Data
 
 **SIGNS** dataset is a collection of 6 hand signs representing numbers from 0 to 5.

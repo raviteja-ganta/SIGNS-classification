@@ -22,8 +22,8 @@ Goal is to classify image in to 6 catgories.
 
 We have two sets of data:
 
-* Train data
-* Test data
+* Train data - containing 1080 images
+* Test data - containing 120 images
 
 Train data is for traning Conv net. Test data(in this case used as validation data) is for selecting best model.
 Data is included with this repo.
